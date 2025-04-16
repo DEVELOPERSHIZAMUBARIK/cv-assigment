@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    background-color: rgb(198,10,10);
+font-size: 50px;
+padding:100px 200px ;
+margin: 0px;
+}
+table{
+    width: 25%;
+margin: auto;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+*{
+    background-color: rgba(255,136,0,0.986);
+}
